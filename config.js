@@ -5,7 +5,7 @@ const WEDDING_CONFIG = {
   groomName: "Duy Anh",
   brideName: "Thuý Trang",
 
-  weddingDate: "2026-01-10 10:30",
+  weddingDate: "2026-01-10 11:30",
   location: "Trung tâm tiệc cưới Nguyên Đình tầng 3 Tascomall số 7-9 Nguyễn Văn Linh, Long Biên, Hà Nội",
 
   // link mở ngoài (mở app Google Maps trên điện thoại)
